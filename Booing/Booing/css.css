@@ -1,0 +1,267 @@
+#menu{
+    color:#363636;
+    position: relative;
+    left: 3.5%;
+}
+.name {
+    position: absolute;
+     left:50% ;
+     transform: translateX(-50%);
+}
+.booing{
+    width: 115px;
+}
+.icons{
+    position: absolute;
+    left: 90%;
+}
+#setting{
+    color:#008000;
+}
+#account{
+    color:#4169E1;
+    left: 14px ;
+    position: relative;
+}
+nav{
+    top:24px;
+}
+#logo{
+    width: 360px;
+    left: 50%;
+}
+#search{
+    position: relative;
+    top: 25px;
+    display: inline-block;
+}
+#middle{
+    height: 450px;
+    display: block;
+    position: absolute;
+    width: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+}
+#microfone{
+    position: relative;
+    width: 50px;
+    height: 45px;
+    right: -6px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(158, 158, 158);
+}
+#microfone:hover{
+    border-color: rgb(128, 128, 128);;
+}
+#lupa:hover{
+    border-color: rgb(126, 124, 124);
+}
+#lupa{
+    position: relative;
+    width: 50px;
+    height: 45px;
+    left: -5px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: #ebe9e9;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(158, 158, 158);
+}
+#input{
+    top: 1px;
+    position: relative;
+    background-color: #ebe9e9;
+    height: 45px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(148, 147, 147);
+    outline: 0;
+}
+#microphone{
+    color:#008000;
+}
+#lupaicon{
+    color:#4169E1;
+}
+#propaganda{
+    position: absolute;
+    display: inline-block;
+    top: 58%;
+    width: 400px;
+    height: 170px;
+    background-color: #f0ecec;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+}
+#tata{
+    position: relative;
+    top: 10px;
+    left: 9px;
+    width: 200px;
+    height: 150px;
+}
+#colgate{
+    position: relative;
+    top: 10px;
+    left: 8px;
+    width: 180px;
+    height: 150px;
+}
+#top{
+    position: absolute;
+    width: 100%;
+    height: 130px;
+}
+#icone{
+    top: -6px;
+    left: 30px;
+    width: 130px;
+    position: relative;
+}
+#pesquisa{
+    position: relative;
+    background-color: #ebe9e9;
+    width: 550px ;
+    height: 40px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(148, 147, 147);
+    outline: 0;
+}
+#b1{
+    top: -1px;
+    position: relative;
+    width: 50px;
+    height: 40px;
+    right: -6px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(158, 158, 158);
+}
+#b2{
+    top: -1px;
+    position: relative;
+    width: 50px;
+    height: 40px;
+    left: -5px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: #ebe9e9;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(158, 158, 158);
+
+}
+#b3{
+    position: relative;
+    left: 36%;
+    top: 2px;
+}
+#opc{
+    color:#363636;
+    position: relative;
+    left: 43%;
+}
+#conf{
+    color: #008000;
+    position: relative;
+    left: 44%;
+}
+#conta{
+    color:#4169E1;
+    position: relative;
+    left: 45%;
+}
+#navegacao{
+    top: 130px;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    display: inline
+}
+._b-nav{
+    position: relative;
+    border: none;
+    background-color: white;
+    color: black;
+    padding-left: 80px;
+
+}
+#resultado{
+    position: absolute;
+    top: 180px;
+    left: 80px;
+}
+#first{
+    position: relative;
+    font-size: 12px;
+    opacity: 80%;
+}
+#texto{
+    left: 80px;
+    top: 230px;
+    position: absolute;
+    width: 70%;
+}
+#link{
+    font-size:12px;
+}
+#site{
+    font-size:18px;
+    color: #00008B;
+}
+#conteudo{
+    font-size:14px;
+}
+#bold{
+    font-weight: bold;
+}
+#texto2{
+    left: 80px;
+    top: 350px;
+    position: absolute;
+    width: 70%;
+}
+#texto3{
+    left: 80px;
+    top: 470px;
+    position: absolute;
+    width: 70%;
+}
+
+#texto4{
+    left: 80px;
+    top: 590px;
+    position: absolute;
+    width: 70%;
+}
+
+.pagination{
+    left: 80px;
+    top: 75%;
+    position: absolute;
+ }
+._nav{
+    border-style: none;
+    border-color: rgb(158, 158, 158);
+}
+.flex-container {
+    display: flex;
+  }
+  footer {
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    bottom:0;
+    left:0;
+    background-color: rgb(158, 158, 158);
+  }
